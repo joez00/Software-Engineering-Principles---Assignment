@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SEP-GroupAssignment-Project", "SEP-GroupAssignment-Project\SEP-GroupAssignment-Project.vcxproj", "{78A8C8B7-250A-434B-B6A1-EE5A7FA8F301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78A8C8B7-250A-434B-B6A1-EE5A7FA8F301}.Debug|Win32.ActiveCfg = Debug|Win32
+		{78A8C8B7-250A-434B-B6A1-EE5A7FA8F301}.Debug|Win32.Build.0 = Debug|Win32
+		{78A8C8B7-250A-434B-B6A1-EE5A7FA8F301}.Release|Win32.ActiveCfg = Release|Win32
+		{78A8C8B7-250A-434B-B6A1-EE5A7FA8F301}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
