@@ -63,6 +63,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="testMenu.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="testMenu.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
