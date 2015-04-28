@@ -6,5 +6,7 @@ class OptionsMenu:public Menu
 public:
 	OptionsMenu(void);
 	~OptionsMenu(void);
+	void drawMenu();
+	void exit();
 };
 
